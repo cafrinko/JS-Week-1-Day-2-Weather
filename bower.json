@@ -1,0 +1,19 @@
+{
+  "name": "js-alarm-clock",
+  "description": "",
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "homepage": "https://github.com/dowjohn/jsAlarmClock",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.13.0"
+  }
+}
