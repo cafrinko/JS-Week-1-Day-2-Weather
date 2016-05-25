@@ -1,9 +1,9 @@
 {
-  "name": "js-alarm-clock",
+  "name": "Desktop",
   "description": "",
-  "main": "gulpfile.js",
-  "license": "ISC",
-  "homepage": "https://github.com/dowjohn/jsAlarmClock",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -12,8 +12,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^2.2.4",
-    "bootstrap": "^3.3.6",
-    "moment": "^2.13.0"
+    "jquery": "^2.2.4"
   }
 }
